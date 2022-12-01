@@ -23,6 +23,7 @@
         height: 60px;
         background: white;
         border-radius: 3px;
+        display: flex;
     }
 
     .SreachIcon input {
@@ -31,5 +32,26 @@
         padding-left: 10px;
         border: none;
         outline: none;
+        font-size: 18px;
+    }
+
+    .IconS {
+        font-size: 35px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    .CartContainer {
+        margin-top: 10px;
+    }
+
+    .Cart {
+      font-size: 40px;
+      color: white;
+    }
+
+    .CartLight {
+        color: white;
+        font-size: 18px;
     }
 }
